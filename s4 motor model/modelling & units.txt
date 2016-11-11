@@ -1,0 +1,8 @@
+J = moment of inertia of the rotor = kg * m^2
+b = motor viscous friction constant (damping) = N * m * s
+Ke = electromotive force constant = V/rad/sec
+Kt = motor torque constant = N * m / Amp
+R = motor electrical resistance = ohms
+L = motor electrical inductance = henrys
+
+http://ctms.engin.umich.edu/CTMS/index.php?example=MotorSpeed&section=SimulinkModeling
